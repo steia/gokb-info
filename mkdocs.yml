@@ -1,0 +1,46 @@
+site_name: GOKb - Global Open Knowledgebase
+copyright: Copyright &copy; GOKb 2014 - GOKb
+use_directory_urls: false
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+  favicon: assets/favicon-16x16.png
+  logo: assets/favicon-32x32.png
+  custom_dir: theme
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        en: EN
+        de: DE
+      nav_translations:
+        de:
+          Presentations: Präsentationen
+          Publications: Publikationen
+  - search
+  - localsearch
+nav:
+  - Home: index.md
+  - News: news.md
+  - Documentation:
+    - KBART introduction: documentation/kbart-introduction.md
+    - Registration and login: documentation/registration-and-login.md
+    - Create and edit provider: documentation/create-and-edit-provider.md
+    - Create and edit packages: documentation/create-and-edit-packages.md
+    - Guidelines for package names: documentation/guidelines-for-package-names.md
+  - Presentations: presentations.md
+  - Publications: publications.md
+  - Get involved: get-involved.md
+  - Contact: contact.md
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/GOKb1
+    - icon: fontawesome/brands/github
+      link: https://github.com/openlibraryenvironment/gokb
