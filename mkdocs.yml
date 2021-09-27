@@ -20,6 +20,9 @@ plugins:
         de: DE
       nav_translations:
         de:
+          Contact: Kontakt
+          Get involved: Beteiligen Sie sich
+          Documentation: Dokumentation
           Presentations: Präsentationen
           Publications: Publikationen
   - search
