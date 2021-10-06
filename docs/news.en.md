@@ -1,5 +1,13 @@
 # News
 
+## GOKb & Folio: data flow
+
+*October 6, 2021*
+
+In Germany the GOKb has central role for the management of electronic resource packages. It provides data to national union catalogues like EZB & ZDB, but also to local library systems like Folio:
+
+![German Folio libraries data flow](assets/gokb-data-flow.png "German Folio libraries data flow")
+
 ## Enhanced Import Client
 
 *May 25, 2020*
