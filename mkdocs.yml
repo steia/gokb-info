@@ -28,18 +28,18 @@ plugins:
   - search
   - localsearch
 nav:
-  - Home: index.en.md
-  - News: news.en.md
+  - Home: index.md
+  - News: news.md
   - Documentation:
-    - KBART introduction: documentation/kbart-introduction.en.md
-    - Registration and login: documentation/registration-and-login.en.md
-    - Create and edit provider: documentation/create-and-edit-provider.en.md
-    - Create and edit packages: documentation/create-and-edit-packages.en.md
-    - Guidelines for package names: documentation/guidelines-for-package-names.en.md
-  - Presentations: presentations.en.md
-  - Publications: publications.en.md
-  - Get involved: get-involved.en.md
-  - Contact: contact.en.md
+    - KBART introduction: documentation/kbart-introduction.md
+    - Registration and login: documentation/registration-and-login.md
+    - Create and edit provider: documentation/create-and-edit-provider.md
+    - Create and edit packages: documentation/create-and-edit-packages.md
+    - Guidelines for package names: documentation/guidelines-for-package-names.md
+  - Presentations: presentations.md
+  - Publications: publications.md
+  - Get involved: get-involved.md
+  - Contact: contact.md
 extra:
   generator: false
   social:
